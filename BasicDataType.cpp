@@ -1,5 +1,9 @@
+//Remember to use GNU G++ 17 7.3.0 compiler while submitting your ans
 
-#include<bits/stdc++.h>
+
+
+
+#include<bits/stdc++.h>         //this header filer includes every standard library used in competitive programming contestSS
 using namespace std;
 int main()
 {
@@ -15,8 +19,5 @@ int main()
     cout<<c<<endl;              //Printing input one after another
     cout<<f<<endl;
     cout<<d<<endl;
-
-
-
 
 }
